@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df7737a6.css",
+    "main.js": "/static/js/main.1c00520a.js",
+    "static/media/main.webp": "/static/media/main.fc6b9bc4eb34b1ac0fc2.webp",
+    "static/media/MICHOACAN.webp": "/static/media/MICHOACAN.08521cca106d314626e9.webp",
+    "static/media/about.webp": "/static/media/about.cc93b11f69906f64de30.webp",
+    "static/media/MORELOS.webp": "/static/media/MORELOS.f8015b3f11276abe6751.webp",
+    "static/media/service.webp": "/static/media/service.3e09cc8ab266e79ff33e.webp",
+    "static/media/VERACRUZ.webp": "/static/media/VERACRUZ.e6e81719116fa6dca2e4.webp",
+    "static/media/QUINTANA ROO.webp": "/static/media/QUINTANA ROO.be7aa9f57ffcc96a0860.webp",
+    "static/media/EDOMEX.webp": "/static/media/EDOMEX.444d0b1ac8f1c6094408.webp",
+    "static/media/Comerwer.webp": "/static/media/Comerwer.cc6a84472216f9cd9712.webp",
+    "static/media/Logo.webp": "/static/media/Logo.804e13fd1adbec2d6161.webp",
+    "index.html": "/index.html",
+    "main.df7737a6.css.map": "/static/css/main.df7737a6.css.map",
+    "main.1c00520a.js.map": "/static/js/main.1c00520a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df7737a6.css",
+    "static/js/main.1c00520a.js"
+  ]
+}
